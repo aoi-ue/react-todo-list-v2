@@ -17,8 +17,8 @@ Tasks
     - TodoList
       - import the todos defined in seedData.js and set it in TodoList's state (Done)
     - Todo
-      - Allow user to mark a Todo as done by clicking on it
-      - Add strikethrough style to a Todo when user marks it as done
+      - Allow user to mark a Todo as done by clicking on 
+      - Add strikethrough style to a Todo when user marks it as done (Done) 
     - TodoFilterBar
       - Allow user to filter todos by inputting a search string and hitting a 'Filter' button. Todos that do not match the search string should be hidden from display
       - Allow user to see all Todos again when he hits a 'See all todos' button
